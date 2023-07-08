@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 628dd8666fcf454a89c1d4d20785cd14, type: 3}
+  m_Name: Shop
+  m_EditorClassIdentifier: 
+  items:
+  - icon: {fileID: 750384575, guid: cdc216b64a21b6a48a19e11b90115054, type: 3}
+    tower: {fileID: 9195143222216395497, guid: e188d598f07e1de4cb5640c0aaa2f146, type: 3}
+    targetType: -1
+    price: 8
+    name: Pawn
+    description: Place, sd ,ds , sd,ds ,ds ,ds  sd dssd s dsd sd sd
+  - icon: {fileID: -1082489627, guid: 0bdac3d353699164b8df4a5451f9768d, type: 3}
+    tower: {fileID: 9195143222216395497, guid: 58e3fd9a6692f4846b62bc3a258f31d3, type: 3}
+    targetType: 14
+    price: 12
+    name: Lightning
+    description: Lightning Lightning Lightning Lightning Lightning Lightning
+  - icon: {fileID: -1569553079, guid: 1dd0059e91f90644abaa109eeb39fa69, type: 3}
+    tower: {fileID: 9195143222216395497, guid: 2fd2e6b2358baf54f99ebd629a98335d, type: 3}
+    targetType: 13
+    price: 20
+    name: Bombardier
+    description: Bombardier Bombardier Bombardier Bombardier Bombardier

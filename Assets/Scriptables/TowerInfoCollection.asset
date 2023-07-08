@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af078577ef774c348a379690b80d9d61, type: 3}
+  m_Name: TowerInfoCollection
+  m_EditorClassIdentifier: 
+  towerLevelInfos:
+  - shopItem:
+      icon: {fileID: 750384575, guid: cdc216b64a21b6a48a19e11b90115054, type: 3}
+      targetType: -1
+      name: Pawn
+      description: Place, sd ,ds , sd,ds ,ds ,ds  sd dssd s dsd sd sd
+    infoItems:
+    - tower: {fileID: 9195143222216395497, guid: e188d598f07e1de4cb5640c0aaa2f146, type: 3}
+      buyPrice: 8
+      salePrice: 5
+      buildTime: 1
+    - tower: {fileID: 9195143222216395497, guid: b7968bcf2d24bb84fbab666dd81fbd81, type: 3}
+      buyPrice: 20
+      salePrice: 24
+      buildTime: 1.4
+    - tower: {fileID: 9195143222216395497, guid: ff399385123bd144bbbe994cb74b5a7e, type: 3}
+      buyPrice: 50
+      salePrice: 65
+      buildTime: 1.7
+    - tower: {fileID: 9195143222216395497, guid: 9578249c8e571ee4a95c5e2b969e0e00, type: 3}
+      buyPrice: 130
+      salePrice: 166
+      buildTime: 2
+    - tower: {fileID: 9195143222216395497, guid: d63b02e2ace32de409f7eb3b1e34a756, type: 3}
+      buyPrice: 300
+      salePrice: 386
+      buildTime: 2.4
+  - shopItem:
+      icon: {fileID: -1082489627, guid: 0bdac3d353699164b8df4a5451f9768d, type: 3}
+      targetType: 14
+      name: Lightning
+      description: 
+    infoItems:
+    - tower: {fileID: 9195143222216395497, guid: 58e3fd9a6692f4846b62bc3a258f31d3, type: 3}
+      buyPrice: 14
+      salePrice: 9
+      buildTime: 2
+    - tower: {fileID: 9195143222216395497, guid: 02b97646f9a7a3641862e5597c008aae, type: 3}
+      buyPrice: 50
+      salePrice: 56
+      buildTime: 2.4
+    - tower: {fileID: 9195143222216395497, guid: a7cbd2cc5a902a043ac407fba7c1cc41, type: 3}
+      buyPrice: 120
+      salePrice: 154
+      buildTime: 2.7
+    - tower: {fileID: 9195143222216395497, guid: 9301c04acf48c3149ad2b4fd232ffb4b, type: 3}
+      buyPrice: 220
+      salePrice: 323
+      buildTime: 3
+    - tower: {fileID: 9195143222216395497, guid: 8467e5b32befe3541b5bccd495f6a682, type: 3}
+      buyPrice: 350
+      salePrice: 573
+      buildTime: 3.4
+  - shopItem:
+      icon: {fileID: -1569553079, guid: 1dd0059e91f90644abaa109eeb39fa69, type: 3}
+      targetType: 13
+      name: Bombardier
+      description: 
+    infoItems:
+    - tower: {fileID: 9195143222216395497, guid: 2fd2e6b2358baf54f99ebd629a98335d, type: 3}
+      buyPrice: 16
+      salePrice: 11
+      buildTime: 2.4
+    - tower: {fileID: 9195143222216395497, guid: a35f262860fef164f881cde1b0b7b195, type: 3}
+      buyPrice: 60
+      salePrice: 66
+      buildTime: 2.7
+    - tower: {fileID: 9195143222216395497, guid: 07f1ba5aa8da1f9468b5c592e364a932, type: 3}
+      buyPrice: 140
+      salePrice: 181
+      buildTime: 3
+    - tower: {fileID: 9195143222216395497, guid: 87c7348cb022b7f45a22ecb42a221bc8, type: 3}
+      buyPrice: 250
+      salePrice: 372
+      buildTime: 3.4
+    - tower: {fileID: 9195143222216395497, guid: f7dab2f1a3515814fbdd6962461a6dc5, type: 3}
+      buyPrice: 380
+      salePrice: 642
+      buildTime: 3.7
+  - shopItem:
+      icon: {fileID: -1417421367, guid: 55c5f5dadd81ed042ae8639b82e01b62, type: 3}
+      targetType: 7
+      name: Cage
+      description: 
+    infoItems:
+    - tower: {fileID: 9195143222216395497, guid: 2dcf60c00f57c214793a74f60de1dd33, type: 3}
+      buyPrice: 40
+      salePrice: 27
+      buildTime: 5
+    - tower: {fileID: 9195143222216395497, guid: e548c7a102906234c88c0b5cff7f94ce, type: 3}
+      buyPrice: 100
+      salePrice: 123
+      buildTime: 7
+    - tower: {fileID: 9195143222216395497, guid: 2dcf60c00f57c214793a74f60de1dd33, type: 3}
+      buyPrice: 220
+      salePrice: 302
+      buildTime: 10
+  - shopItem:
+      icon: {fileID: -1417421367, guid: 55c5f5dadd81ed042ae8639b82e01b62, type: 3}
+      targetType: 7
+      name: Cage
+      description: 
+    infoItems:
+    - tower: {fileID: 9195143222216395497, guid: 2dcf60c00f57c214793a74f60de1dd33, type: 3}
+      buyPrice: 40
+      salePrice: 27
+      buildTime: 5
+    - tower: {fileID: 9195143222216395497, guid: e548c7a102906234c88c0b5cff7f94ce, type: 3}
+      buyPrice: 100
+      salePrice: 123
+      buildTime: 7
+    - tower: {fileID: 9195143222216395497, guid: 2dcf60c00f57c214793a74f60de1dd33, type: 3}
+      buyPrice: 220
+      salePrice: 302
+      buildTime: 10
